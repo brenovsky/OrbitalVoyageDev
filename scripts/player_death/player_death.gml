@@ -5,7 +5,7 @@ function player_death(_target_object)
         room_restart();
 	}
 	
-	if (place_meeting(x, y, Object16))
+	if (place_meeting(x, y, obj_toxic_water))
 	{
 		room_restart();
 	}

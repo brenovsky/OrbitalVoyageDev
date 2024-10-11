@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"player_death",
   "parent":{
-    "name":"Jogo",
-    "path":"folders/Cenas/Jogo.yy",
+    "name":"player",
+    "path":"folders/scripts/player.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

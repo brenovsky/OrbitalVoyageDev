@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Font_comic",
+  "%Name":"font_comic",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":47,
@@ -95,10 +95,10 @@
   "last":0,
   "lineHeight":47,
   "maintainGms1Font":false,
-  "name":"Font_comic",
+  "name":"font_comic",
   "parent":{
-    "name":"Fontes",
-    "path":"folders/Fontes.yy",
+    "name":"font",
+    "path":"folders/font.yy",
   },
   "pointRounding":0,
   "ranges":[

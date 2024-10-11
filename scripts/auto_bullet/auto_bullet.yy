@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"auto_bullet",
   "parent":{
-    "name":"Jogo",
-    "path":"folders/Cenas/Jogo.yy",
+    "name":"auto",
+    "path":"folders/scripts/auto.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

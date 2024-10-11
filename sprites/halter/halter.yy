@@ -35,8 +35,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Jogo",
-    "path":"folders/Cenas/Jogo.yy",
+    "name":"features",
+    "path":"folders/sprites/features.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

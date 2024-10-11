@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"transition",
   "parent":{
-    "name":"Jogo",
-    "path":"folders/Cenas/Jogo.yy",
+    "name":"features",
+    "path":"folders/scripts/features.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
