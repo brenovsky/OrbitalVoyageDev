@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fix_block",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fix_block",
+  "parent":{
+    "name":"Jogo",
+    "path":"folders/Cenas/Jogo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
