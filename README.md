@@ -5,7 +5,7 @@
 ## ⏩ About the game
 We have made an interactive platform for astronauts 🚀 that aims to entertain them and keep them healthy 🏋️‍♂️ when they are on mission to the ISS. Through cooperative games, such as a quiz ❓ and exercises guided by Max Cosmo 🌟, our main character, the life of astronauts on mission can be a little more fun. In the Quiz, astronauts will be able to challenge their knowledge of astrophysics 🪐, and in the mini-game, the player will accompany Max Cosmo in his fight for survival ⚔️. The exercise section was created to maintain health in microgravity 🌌. Keeping the mind and body of crew members healthy is essential in long-term missions to avoid mental and physical problems.
 
-By selecting this option, the platform offers a variety of 8 types of specialized exercises 💪, each focused on a specific part of the body, as well as including cardiovascular activities ❤️‍🔥. These exercises are designed to stimulate the physical condition of astronauts by promoting blood circulation 💉, which is crucial in microgravity environments.
+By selecting this option, the platform offers a variety of 8 types of specialized exercises 💪, each focused on a specific part of the body, as well as including cardiovascular activities. These exercises are designed to stimulate the physical condition of astronauts by promoting blood circulation 💉, which is crucial in microgravity environments.
 
 Proper blood circulation is essential for maintaining physical health and preventing problems related to inactivity. Therefore, all exercises are carefully selected to meet this need, and clearly, the brave astronaut "Max Cosmos" demonstrates how to do them 👨‍🚀.
 
