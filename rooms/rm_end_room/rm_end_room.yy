@@ -1,31 +1,29 @@
 {
   "$GMRoom":"v1",
-  "%Name":"r_quiz_rules",
+  "%Name":"rm_end_room",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_2D127BDE","path":"rooms/r_quiz_rules/r_quiz_rules.yy",},
-    {"name":"inst_9691596","path":"rooms/r_quiz_rules/r_quiz_rules.yy",},
+    {"name":"inst_6EC7E25A","path":"rooms/rm_end_room/rm_end_room.yy",},
+    {"name":"inst_66B9A304","path":"rooms/rm_end_room/rm_end_room.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_2D127BDE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2D127BDE","objectId":{"name":"obj_quiz_box","path":"objects/obj_quiz_box/obj_quiz_box.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_quiz_box","path":"objects/obj_quiz_box/obj_quiz_box.yy",},"propertyId":{"name":"texto","path":"objects/obj_quiz_box/obj_quiz_box.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"The game is designed for 2 to 6 players. In each round, one player asks a question to the others, providing three answer options, with only one being correct. The other players must answer as quickly as possible, and the first player to answer correctly wins the round. In each new round, the role of the question reader rotates to the next player.",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5499999,"scaleY":0.40740746,"x":480.0,"y":192.00002,},
-        {"$GMRInstance":"v1","%Name":"inst_9691596","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9691596","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"room_destino","path":"objects/obj_button/obj_button.yy",},"resource":{"name":"r_level1_1","path":"rooms/r_level1_1/r_level1_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"R_Quiz1",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"texto","path":"objects/obj_button/obj_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Next\"",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.18333335,"scaleY":0.31851855,"x":768.0,"y":448.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6EC7E25A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6EC7E25A","objectId":{"name":"obj_win_mes","path":"objects/obj_win_mes/obj_win_mes.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.5,"scaleY":4.5,"x":352.0,"y":64.0,},
+        {"$GMRInstance":"v1","%Name":"inst_66B9A304","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_66B9A304","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"room_destino","path":"objects/obj_button/obj_button.yy",},"resource":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_main_menu",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"texto","path":"objects/obj_button/obj_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"back",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25707215,"scaleY":0.25707218,"x":512.0,"y":416.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"bg_star_sky","path":"sprites/bg_star_sky/bg_star_sky.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"r_quiz_rules",
+  "name":"rm_end_room",
   "parent":{
-    "name":"quiz",
-    "path":"folders/rooms/quiz.yy",
+    "name":"game",
+    "path":"folders/rooms/game.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

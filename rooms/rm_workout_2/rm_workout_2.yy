@@ -1,26 +1,26 @@
 {
   "$GMRoom":"v1",
-  "%Name":"r_workout_2",
+  "%Name":"rm_workout_2",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_186DCC64_1","path":"rooms/r_workout_2/r_workout_2.yy",},
-    {"name":"inst_91522A8","path":"rooms/r_workout_2/r_workout_2.yy",},
+    {"name":"inst_186DCC64_1","path":"rooms/rm_workout_2/rm_workout_2.yy",},
+    {"name":"inst_91522A8","path":"rooms/rm_workout_2/rm_workout_2.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_186DCC64_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_186DCC64_1","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"texto","path":"objects/obj_button/obj_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Back\"",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"room_destino","path":"objects/obj_button/obj_button.yy",},"resource":{"name":"r_level1_1","path":"rooms/r_level1_1/r_level1_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"R_Acad_Menu",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"room_destino","path":"objects/obj_button/obj_button.yy",},"resource":{"name":"rm_workout_menu","path":"rooms/rm_workout_menu/rm_workout_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_workout_menu",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.16666673,"scaleY":0.21296303,"x":816.0,"y":448.0,},
         {"$GMRInstance":"v1","%Name":"inst_91522A8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_91522A8","objectId":{"name":"obj_halter","path":"objects/obj_halter/obj_halter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.43933827,"scaleY":0.4393383,"x":96.0,"y":64.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"bg_star_sky","path":"sprites/bg_star_sky/bg_star_sky.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"r_workout_2",
+  "name":"rm_workout_2",
   "parent":{
     "name":"workouts",
     "path":"folders/rooms/exercises/workouts.yy",

@@ -10,7 +10,7 @@ with (obj_enemy_spaceship) {
 	
 	if (_life <= 0)
 	{
-		room_goto(r_main_menu);
+		room_goto(rm_main_menu);
 	}
 }
 
@@ -26,5 +26,5 @@ draw_text(pos_x, pos_y, texto);
 
 if (!instance_exists(obj_enemy_spaceship))	
 {
-	room_goto(r_end_room);
+	room_goto(rm_end_room);
 }

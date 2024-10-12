@@ -29,7 +29,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"room_destino","filters":[
         "GMRoom",
-      ],"listItems":[],"multiselect":false,"name":"room_destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"r_level1_1","path":"rooms/r_level1_1/r_level1_1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"r_level1_1","varType":5,},
+      ],"listItems":[],"multiselect":false,"name":"room_destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_level1_1","path":"rooms/rm_level1_1/rm_level1_1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_level1_1","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"texto","filters":[],"listItems":[],"multiselect":false,"name":"texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Respawn\"","varType":2,},
   ],
   "resourceType":"GMObject",

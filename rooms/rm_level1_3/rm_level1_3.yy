@@ -1,13 +1,13 @@
 {
   "$GMRoom":"v1",
-  "%Name":"r_level1_3",
+  "%Name":"rm_level1_3",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_42633BCE","path":"rooms/r_level1_3/r_level1_3.yy",},
-    {"name":"inst_4049DFE","path":"rooms/r_level1_3/r_level1_3.yy",},
+    {"name":"inst_42633BCE","path":"rooms/rm_level1_3/rm_level1_3.yy",},
+    {"name":"inst_4049DFE","path":"rooms/rm_level1_3/rm_level1_3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,7 +17,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"r_level1_3",
+  "name":"rm_level1_3",
   "parent":{
     "name":"game",
     "path":"folders/rooms/game.yy",
